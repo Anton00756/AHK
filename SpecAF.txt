@@ -4,8 +4,7 @@ Andrey_Vrungel
 Vadim_Besov
 Raimond_Bartolomeo
 Tony_Esposito
-Mat_Reiner
-Wilhelm_May
+Matvei_Reiner
 Lan_Seagers
 Leo_Esposito
 Charles_Carlini
@@ -13,3 +12,7 @@ Alexande_Dergach
 Chester_Vindetto
 Chappy_Carter
 Max_Kapelov
+Auko_Suzo
+Dmitry_Matrosov
+Volodymur_Grizliy
+Yura_Grizliy
