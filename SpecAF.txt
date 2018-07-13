@@ -5,14 +5,14 @@ Vadim_Besov
 Raimond_Bartolomeo
 Tony_Esposito
 Matvei_Reiner
+Volodymur_Grizliy
 Lan_Seagers
 Leo_Esposito
-Charles_Carlini
-Alexande_Dergach
 Chester_Vindetto
 Chappy_Carter
 Max_Kapelov
 Auko_Suzo
 Dmitry_Matrosov
-Volodymur_Grizliy
 Yura_Grizliy
+Fabio_Mars
+Yuta_Susume
